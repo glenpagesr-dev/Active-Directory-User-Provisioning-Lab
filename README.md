@@ -39,7 +39,7 @@ This lab demonstrates the process of provisioning a new user account in **Active
 ## Step-by-Step Procedure
 
 ### 1. Open Active Directory Users and Computers
-
+![image alt](https://github.com/glenpagesr-dev/Active-Directory-User-Provisioning-Lab/blob/3bd6ec2d2ade4157f34eb06f8970ac2ab309318a/user%20and%20computer.png)
 * Log into a domain-joined system.
 * Launch **Active Directory Users and Computers** (`dsa.msc`).
 
