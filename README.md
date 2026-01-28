@@ -107,6 +107,8 @@ This lab demonstrates the process of provisioning a new user account in **Active
 ---
 
 ### 7. Validate Account Provisioning
+![image alt](https://github.com/glenpagesr-dev/Active-Directory-User-Provisioning-Lab/blob/ffcd8f529a40e8ed0e52aeafa96b953bbf8e9ce9/Validate.png)
+
 
 * Verify:
 
